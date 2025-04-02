@@ -1,7 +1,7 @@
-- SAR data compression intro & use
-- Physical SAR systems description
-- Some background & process description of SAR data compression
+- [[SAR]] data compression intro & use
+- Physical [[SAR]] systems description
+- Some background & process description of [[SAR data compression]]
 - Problems & challenges of data handling
 - Research efforts for compression techniques
 - Performance measures introduction & description
-- Performance of current approaches & shortcomings
+- Performance of [[current approaches]] & shortcomings
